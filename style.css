@@ -1,0 +1,7 @@
+.feedback{
+    display: none;
+}
+
+.feedback.active{
+    display: block  ;
+}
